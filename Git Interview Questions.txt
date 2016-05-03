@@ -1,4 +1,6 @@
-)      What is GIT?
+Git Questions:
+
+1)      What is GIT?
 
 GIT is a distributed version control system and source code management (SCM) system with an emphasis to handle small and large projects with speed and efficiency.
 
@@ -132,7 +134,7 @@ The syntax used for rebase is “git rebase [new-commit] “
 
 ‘git remote add’  just creates an entry in your git config that specifies a name for a particular URL.  While, ‘git clone’ creates a new git repository by copying and existing one located at the URI.
 
-27)   What is GIT version control?
+27)   What is GIT version control (Distributed Verion Control System )?
 
 With the help of GIT version control, you can track the history of a collection of files and includes the functionality to revert the collection of files to another version.  Each version captures a snapshot of the file system at a certain point of time. A collection of files and their complete history are stored in a repository.
 
@@ -231,6 +233,8 @@ b)      Abusing “git commit- amend” can cause a small commit to grow and acq
 45)   What is ‘bare repository’ in GIT?
 
 To co-ordinate with the distributed development and developers team, especially when you are working on a project from multiple computers ‘Bare Repository’ is used. A bare repository comprises of a version history of your code.
+
+More Questions: 
 
 01) How do you start Git and what is the process called?
 A) $ git init The process is called initializing a git repository
